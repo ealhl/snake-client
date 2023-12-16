@@ -16,6 +16,10 @@ const handleUserInput = function (data) {
     connection.write("Move: right");
   }
 
+  if (data === "x") {
+    connection.write("Say: eat");
+  }
+
   if (data === "\u0003") {
     process.exit();
   }
