@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-![ScreenShot](https://github.com/ealhl/screenShot/blob/b8e6344b0809b96560bc2dde5a3cf36e3cd915d5/screenShot/hey.png)(#)
-![ScreenShot](https://github.com/ealhl/screenShot/blob/b8e6344b0809b96560bc2dde5a3cf36e3cd915d5/screenShot/z_snake.png)(#)
+![ScreenShot](https://github.com/ealhl/screenShot/blob/b8e6344b0809b96560bc2dde5a3cf36e3cd915d5/screenShot/hey.png)
+![ScreenShot](https://github.com/ealhl/screenShot/blob/b8e6344b0809b96560bc2dde5a3cf36e3cd915d5/screenShot/z_snake.png)
 
 
 ## Getting Started
